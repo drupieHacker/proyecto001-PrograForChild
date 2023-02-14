@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1{
+  background-color: #2980b9;
+  color: #fafafa;
+  text-align: center;
+  padding: 10px;
+}
